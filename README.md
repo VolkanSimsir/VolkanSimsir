@@ -1,7 +1,7 @@
 👋 Hi there, I'm Volkan Simsir
 
 
-Generative AI Engineer | LLMs | NLP | AI Agents
+Generative AI Engineer | LLMs | AI Agents | ChatBot | Transformers 
 
 🔹 About Me
 
@@ -14,7 +14,7 @@ Multimodal AI – Exploring vision-language models and integrating multiple moda
 
 💡 Skills & Technologies
 🔹 LLMs (Fine-tuning & Deployment)
-🔹 NLP & Text Generation
+🔹 NLP
 🔹 LangChain & CrewAI
 🔹 AI Agents & Prompt Engineering
 🔹 Vector Databases (FAISS, ChromaDB, Pinecone)
