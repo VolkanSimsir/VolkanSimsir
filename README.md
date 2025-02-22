@@ -23,4 +23,3 @@ Multimodal AI – Exploring vision-language models and integrating multiple moda
 🚀 If you’re working on an exciting AI project or want to explore new possibilities in Generative AI, feel free to connect!
 
 📩 Contact Me: volkansimsir26@gmail.com
-💼 LinkedIn: [https://www.linkedin.com/in/volkan-simsir/]
