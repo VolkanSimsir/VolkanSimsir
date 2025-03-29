@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **volkansimsir26@gmail.com**
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/CagatayAkkas?theme=unicorn)](https://leetcode.com/CagatayAkkas/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
